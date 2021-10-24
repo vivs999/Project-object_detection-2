@@ -1,0 +1,28 @@
+body{
+    font-family: cursive;
+    background:linear-gradient(blue,cyan,rgb(0,255,0));
+}
+
+.header{
+    border: 8px ridge red;
+    width:300px;
+    padding:15px;
+    border-radius: 12px;
+    background:linear-gradient(rgb(0,255,0),cyan,blue);
+}
+
+.btn{
+    border: 3px ridge red;
+    width:fit-content;
+    padding:10px;
+    border-radius: 12px;
+    background:linear-gradient(rgb(0,255,0),cyan,blue);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.canvas{
+    background-color: cornflowerblue;
+    border:7px ridge red;
+    box-shadow: 10px 12px 10px red;
+}
